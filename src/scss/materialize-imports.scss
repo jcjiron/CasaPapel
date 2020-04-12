@@ -1,7 +1,7 @@
 
-@import './sass/components/_color-variables.scss';
-@import './colors';
-@import './sass/materialize.scss';
+@import './sass/components/_color-variables.scss'; //importamos las variables actauales de materialize
+@import './colors'; //aqui sobrescribimos las variables con nuestro tema
+@import './sass/materialize.scss'; //importamos todos los estilos y componentes de materialize
 
 
 
